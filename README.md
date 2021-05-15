@@ -1,6 +1,6 @@
-# Transpic
+# Transpic ✈️
 
-An application to help you our when traveling.
+An application to help you out when traveling.
 
 ## Motivation
 
